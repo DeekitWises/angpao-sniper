@@ -1,6 +1,6 @@
 # หมายศาลสไนเปอร์(twitter-aungpao-snipe)
 
-# fork from chanios
+# fork from chanios and cloned to smart encrypt
 
 ## Installation
 ```sh
